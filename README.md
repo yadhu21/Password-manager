@@ -90,7 +90,7 @@ This project is a **demo** and not suitable for production unless:
 
 ## 👨‍💻 Author
 
-Developed by [Yadhu Krishnan C K]  
-Email: your.email@example.com
+Developed by Yadhu Krishnan C K
+
 
 ---
